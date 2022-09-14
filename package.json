@@ -1,0 +1,23 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "app": "node ./js/app.js",
+    "tasks": "node ./js/tasks.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keugene-git/JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keugene-git/JS/issues"
+  },
+  "homepage": "https://github.com/keugene-git/JS#readme",
+  "dependencies": {
+    "node": "^18.9.0"
+  }
+}
